@@ -515,6 +515,11 @@ It implements attacks like Bluebug, BlueSnarf, BlueSnarf++, BlueSmack, has featu
 <td class="frame">Arachni is a fully automated system which tries to enforce the fire and forget principle. As soon as a scan is started it will not bother you for anything nor require further user interaction.</td>
 </tr>
 <tr>
+<td class="frame"><a class="link" href="http://findsubdomains.com/"target="_blank">findsubdomains</a></td>
+<td class="frame">findsubdomains is a subdomains scanner service that works using OSINT. It helps penetration testers and bug hunters collect and gather subdomains of the domain they are targeting, but it's important to mention that this is not one of the regular tool, it has much greater opportunities.</td>
+</tr>
+<tr>
+<tr>
 <td class="frame"><a class="link" href="http://www.portswigger.net/burp/"target="_blank">Burp Suite</a></td>
 <td class="frame">Burp Suite is an integrated platform for performing security testing of web applications.</td>
 </tr>
